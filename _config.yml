@@ -1,0 +1,28 @@
+name: '1981'
+favicon: null
+layout_spectrum: 0.92053147777915
+typography_spectrum: 0.19070339109748602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3774981307797134
+  lightness: 0.14637361420318484
+  saturation: 0.016206416068598628
+  rhythmicContrast: 0.21343219559639692
+purpose: []
